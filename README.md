@@ -30,12 +30,12 @@ Process of Analysis
 
     Created intuitive dashboards using Tableau to illustrate Byju's financial trajectory, income vs. expenses, and acquisition ROI.
 
-    Key Challenges
+Key Challenges
 
     Gathering Data: Collecting accurate financial data was challenging due to limited publicly available information.
     Data Cleaning: Handling missing values and ensuring data consistency required significant effort. Python was used to impute missing values.
 
-    Key Issues Identified
+Key Issues Identified
 
     Financial Mismanagement:
         Excessive expenditure on advertising and employee costs.
@@ -48,7 +48,7 @@ Process of Analysis
         Layoffs and cash flow issues.
         Heavy reliance on debt to sustain operations.
 
-    Recommendations
+Recommendations
 
     Financial Discipline:
         Prioritize cost-effective strategies and optimize advertising expenditures.
@@ -59,8 +59,7 @@ Process of Analysis
     Operational Efficiency:
         Streamline operations and reduce dependence on debt by improving cash flow management.
 
-
-   Visualizations
+Visualizations
 
    
    
