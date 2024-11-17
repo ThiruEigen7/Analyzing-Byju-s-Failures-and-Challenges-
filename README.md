@@ -59,7 +59,6 @@ Recommendations
     Operational Efficiency:
         Streamline operations and reduce dependence on debt by improving cash flow management.
 
-Visualizations
-
+Visualisation and pdf added
    
    
