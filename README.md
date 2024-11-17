@@ -37,16 +37,33 @@ Key Challenges
 
 Key Issues Identified
 
-    Financial Mismanagement:
-        Excessive expenditure on advertising and employee costs.
-        Rising operational costs without proportional revenue growth.
+     Financial Mismanagement
 
-    Unprofitable Acquisitions:
-        Acquisitions like WhiteHat Jr. led to poor ROI, contributing to financial strain.
+    Spending far exceeded earnings, leading to massive losses.
+        2022 Income: ₹5,298 Cr
+        2022 Loss: ₹8,245 Cr
+    Significant overspending on advertising and employee costs:
+        Advertising: ₹2,250 Cr
+        Employee Costs: ₹1,943 Cr
 
-    Operational Challenges:
-        Layoffs and cash flow issues.
-        Heavy reliance on debt to sustain operations.
+💸 Big Splurges on Advertising:
+
+    Shah Rukh Khan: ₹24 Cr (2017–2023)
+    BCCI Sponsorship: ₹160 Cr per year
+    ICC Sponsorship: ₹180–240 Cr
+    FIFA Sponsorship: ₹120 Cr
+    Lionel Messi: ₹40 Cr per year
+
+2️⃣ Unprofitable Acquisitions
+Byju’s spent a total of $3.1B on acquisitions, many of which failed to deliver a positive ROI:
+
+    Aakash Educational Services: $1B
+    Great Learning: $600M
+
+3️⃣ Operational Challenges
+
+    Layoffs and cash flow crises.
+    Heavy reliance on debt for operations.
 
 Recommendations
 
